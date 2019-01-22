@@ -1,0 +1,6 @@
+tensorflow-gpu=1.12
+keras-gpu
+numpy
+pillow
+matplotlib
+scikit-learn
